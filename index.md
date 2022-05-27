@@ -2,11 +2,11 @@
 **Directed Reading Program 2022, by Elise Alvarez-Salazar, Caroline Baldan, and Kelly Stump**  
 **Mentored by Marcos Reyes**
 
-For our project, we studied methods of finding rational solutions on elliptic curves. We then used the abelian group structure observed to show a special case of Fermat's Last Theorem, proving that there are no non-trivial solutions to a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>.
+For our project, we studied methods of finding rational solutions on elliptic curves. We can then use the rich group structure observed over the curve to show a special case of Fermat's Last Theorem, proving that there are no non-trivial solutions to a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>.
 
 You can view our poster [here](https://github.com/carolinebaldan/UCSB-DRP-2022/files/8788098/DRP_2022.pdf).
 ### Algorithm
-Click [here](https://replit.com/@MarcosReyes6/Elliptic-Curve-Fun?outputonly=1&lite=true#main.py) to input your own non-singular elliptic curve. Our algorithm will compute the set of torsion points and tell you the group structure of the elliptic curve you submitted.
+Click [here](https://replit.com/@MarcosReyes6/Elliptic-Curve-Fun?outputonly=1&lite=true#main.py) to input your own non-singular elliptic curve. Our algorithm will compute the set of torsion points and tell you the group structure of the torsion set for the elliptic curve you submitted.
 
 This algorithm relys primarily on the Nagell-Lutz Theorum, as well as Mazur's Theorum as well as the operation defined to create the abelian group.
 ### Additional Images
