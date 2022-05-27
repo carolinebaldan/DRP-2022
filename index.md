@@ -8,7 +8,7 @@ You can view our poster [here](https://github.com/carolinebaldan/UCSB-DRP-2022/f
 ### Algorithm
 Click [here](https://replit.com/@MarcosReyes6/Elliptic-Curve-Fun?outputonly=1&lite=true#main.py) to input your own non-singular elliptic curve. Our algorithm will compute the set of torsion points and tell you the group structure of the torsion set for the elliptic curve you submitted.
 
-This algorithm relys primarily on the Nagell-Lutz Theorum, as well as Mazur's Theorum and the operation defined to create the abelian group.
+This algorithm relys primarily on the Nagell-Lutz Theorem, as well as Mazur's Theorem and the operation defined to create the abelian group.
 ### Additional Images
 <p align="center">
     <img width="500" alt="Graph of 2P" src="https://user-images.githubusercontent.com/103796027/170742774-a62eb7e0-3b77-46a7-8933-f14622d43ad1.png">
