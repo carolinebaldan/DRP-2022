@@ -18,7 +18,7 @@ This image shows the operation defined on our poster when used to add a point to
 <p align="center">
   <img width="500" alt="Graph of FLT Special Case" src="https://user-images.githubusercontent.com/103796027/170742986-0a2b3e94-fd7e-410d-a21d-a0d0bd72701a.png">
   </p>
-This image displays the graph of a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>, the elliptic curve used defined in Fermat's Last Theorem for n=4. The equation that you see in the top right corner of the graph is that same curve in Weierstrass form. To see how the group structure of this curve can be used to show that it has no non-trivial solutions, see our poster (linked above).
+This image displays the graph of a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>, the elliptic curve used in Fermat's Last Theorem for n=4. The equation that you see in the top right corner of the graph is that same curve in Weierstrass form. To see how the group structure of this curve can be used to show that it has no non-trivial solutions, see our poster (linked above).
 
 
 ### References
