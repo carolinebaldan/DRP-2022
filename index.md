@@ -2,7 +2,7 @@
 **Directed Reading Program 2022, by Elise Alvarez-Salazar, Caroline Baldan, and Kelly Stump**  
 **Mentored by Marcos Reyes**
 
-For our project, we studied methods of finding rational solutions on elliptic curves. We can then use the rich group structure observed over the curve to show a special case of Fermat's Last Theorem, proving that there are no non-trivial solutions to a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>.
+For our project, we studied methods of finding rational solutions on elliptic curves. We then used the rich group structure observed over the curve to show a special case of Fermat's Last Theorem, proving that there are no non-trivial solutions to a<sup>4</sup>+b<sup>4</sup>=c<sup>4</sup>.
 
 You can view our poster [here](https://github.com/carolinebaldan/UCSB-DRP-2022/files/8788098/DRP_2022.pdf).
 ### Algorithm
